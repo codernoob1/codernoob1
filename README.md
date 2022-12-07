@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/codernoob1/github-readme-activity-graph"><img alt="Saikat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codernoob1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
